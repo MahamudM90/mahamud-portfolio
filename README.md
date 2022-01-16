@@ -2,6 +2,6 @@
 
 ## [Check it live here](https://lgope.netlify.app/)
 
-![Thumbnail](thum.png)
+![Thumbnail](thumbnail.png)
 
 Personal portfolio created with Gatbsy.
