@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-## [Check it live here](https://lgope.netlify.app/)
+## [Check it live here])
 
 ![Thumbnail](thumbnail.png)
 
