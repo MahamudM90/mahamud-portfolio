@@ -2,7 +2,7 @@
 title: 'GENERATOR-OF-INVOICE'
 live: 'https://invoice-generator-react.netlify.app/'
 source: 'https://github.com/MahamudM90/GENERATOR-OF-INVOICE'
-stack: 'Reactjs & Bootstrap'
+stack: 'Reactjs,Bootstrap,Firebase'
 image: 'budgetyhome.jpg'
 ---
 
