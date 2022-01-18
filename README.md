@@ -4,4 +4,4 @@
 
 ![Thumbnail](thumbnail.png)
 
-ThPersonal portfolio created with Gatbsy.
+ThiPersonal portfolio created with Gatbsy.
