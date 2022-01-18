@@ -4,4 +4,4 @@
 
 ![Thumbnail](thumbnail.png)
 
-This i Personal portfolio created with Gatbsy.
+This is Personal portfolio created with Gatbsy.
