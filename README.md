@@ -1,7 +1,13 @@
-# Personal Portfolio Website
+# Personal Portfolio Website.
+
+
+##### HomePage
+
+
+![Thumbnail](thumbnail.png)
+
 
 ## [Check it live here](https://mahamudportfolio.netlify.app/)
 
-![Thumbnail](thumbnail.png)
 
 This is a Personal portfolio created with Gatbsy.
