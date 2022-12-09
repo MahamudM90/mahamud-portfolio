@@ -1,8 +1,8 @@
 ---
 title: 'Codeshala'
-live: 'https://61c7283bb5f4a2e3696c7d4c--upbeat-euler-886679.netlify.app/'
+live: 'https://code-shala.netlify.app'
 source: 'https://github.com/MahamudM90/CODE-SHALA'
-stack: 'ReacJs,Redux'
+stack: 'Reac Js, React-Router, Redux'
 image: 'taskController.png'
 ---
 

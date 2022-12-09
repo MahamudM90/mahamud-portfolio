@@ -5,11 +5,11 @@ module.exports = {
     author: `Mahamud`,
     siteUrl: 'https://lgope.github.io/',
     social: {
-      twitter: 'MahamuM90',
-      instagram: 'mahamudm90',
+      twitter: 'Mahamudm_90',
+      instagram: 'mahamud_m90',
       linkedin: 'mahamudm90',
       github: 'mahamudm90',
-      email: 'mahamud01795@gmail.com',
+      email: 'mahamud.sovtdev@gmail.com',
     },
     // name of the image for social website share, should be in static folder
     imageShare: `share.png`,
