@@ -18,7 +18,7 @@ const AboutText = styled.div`
   color: var(--text);
   font-weight: 400;
   font-size: 1.7rem;
-  line-height: 1.9;
+  line-height: 1.8;
   width: 85%;
   margin: 0 auto;
   text-align: center;
