@@ -4,7 +4,7 @@ import { useTrail, animated, config } from 'react-spring';
 
 import NavItem from './navItem/navItem';
 
-const LINKS = ['About me', 'Portfolio', 'Contact'];
+const LINKS = ['About me', 'Portfolio', 'Contact', ];
 
 const StyledNav = styled.nav`
   display: flex;
